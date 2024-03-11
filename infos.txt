@@ -1,0 +1,15 @@
+fontes para projeto
+
+https://imasters.com.br/desenvolvimento/fazendo-mapas-com-react - React Leaflet 
+
+https://blog.gabrielrapozo.com/articles/adicionando-graficos-com-chartjs/ - Chart 
+
+
+Dados da tela: 
+Devide name : FMB003
+Tipos de gráfico do projeto 
+Gráfico Rosca - Engine coolant, RPM, Speed
+Card com informação - Battery, Mileage, ID, Longitude, Latitude
+Mapa - 
+Fuel volume - 
+
